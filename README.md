@@ -16,6 +16,7 @@ You can control it with following commands:
 play, pause, skip and resume
 
 Want to exit?
+
 use the quit command (code will break after)
 ## Dependencies
 Pygame
@@ -28,6 +29,6 @@ Install them all with pip
 ### Bugs
 The downloader downloads music in webm
 
-and converter doesnt work so convert it
+converter doesnt work so convert it yourself
 
-yourself
+Note that the music player is still in development so the bugs will be fixed soon
