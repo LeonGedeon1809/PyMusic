@@ -1,6 +1,6 @@
 # PyMusic
 A text based music player coded all in python (still in development)
-## Usage
+# Usage
 Main command: music
 You basically just type that to the terminal or whatever
 when it asks you about folder name you just type out your 
