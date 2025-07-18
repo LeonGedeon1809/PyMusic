@@ -16,7 +16,6 @@ You can control it with following commands:
 play, pause, skip and resume
 
 Want to exit?
-
 use the quit command (code will break after)
 ## Dependencies
 Pygame
