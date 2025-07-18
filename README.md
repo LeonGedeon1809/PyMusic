@@ -19,13 +19,13 @@ Want to exit?
 
 use the quit command (code will break after)
 ## Dependencies
-Pygame
+Pygame - For playing music
 
-yt_dlp
+yt_dlp - for downloadng
 
-FFmpeg
+FFmpeg - for converting
 
-Install them all with pip
+Install them all with pip (python package manager)
 ### Bugs
 The downloader downloads music in webm
 
