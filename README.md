@@ -4,6 +4,8 @@ coded in python. Controled only using commands. Its simple
 af without the luxury of gui only cli.
 ## Usage
 Main command: music
+
+
 You basically just type that to the terminal or whatever
 when it asks you about folder name you just type out your 
 playlist name(default: music)
